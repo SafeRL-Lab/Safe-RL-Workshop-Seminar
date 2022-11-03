@@ -3,7 +3,14 @@
 # The 1st Safe RL Workshop @ IEEE MFI 2022
 -->
 
-# <center>[The 1st Safe RL Workshop @ IEEE MFI 2022](https://saferl.online/2022/)</center>
+# <div align=center>[The 1st Safe RL Workshop @ IEEE MFI 2022](https://saferl.online/2022/) </div>
+
+
+ <div align=center>
+ <img src="https://github.com/Safe-RL-Lab/Safe-RL-Workshop/blob/main/safe_rl_background.png" width="850"/> 
+ </div>
+
+&nbsp; 
 
 <center>
 The 1st international workshop on Safe Reinforcement Learning Theory and its Applications is co-located with the 2022 IEEE International Conference on Multi-sensor Fusion and Integration (MFI 2022). It will be held hybrid, the physical venue will be at Cranfield University in the United Kingdom, September 21, 2022.
