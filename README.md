@@ -7,6 +7,8 @@
 
 In December 2022, we launched this long-term safe reinforcement learning online seminar. Every month, we will invite at least one speaker to share cutting-edge research with RL researchers and students (each speaker has about 1 hour to share his/her research). We believe that holding this seminar can attract more people's attention and promote the research of safe reinforcement learning. See [homepage](https://sites.google.com/view/saferl-seminar/home)
 
+#### Get involved: We welcome the researchers and students who are interested in safe RL to join us! To receive relevant seminar information in time, please click the [link](https://forms.gle/RS2BiK8fwhH2WYyV8) to register.
+
 &nbsp; 
 &nbsp; 
 &nbsp; 
