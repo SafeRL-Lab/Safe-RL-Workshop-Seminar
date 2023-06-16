@@ -1,9 +1,6 @@
-<!--# Safe RL 2022: The 1st International Workshop on Safe Reinforcement Learning Theory and its Applications
-
-# The 1st Safe RL Workshop @ IEEE MFI 2022
--->
 
 
+&nbsp; 
 
 # <div align=center>[Safe Reinforcement Learning Online Seminar](https://sites.google.com/view/saferl-seminar/home) </div>
 
