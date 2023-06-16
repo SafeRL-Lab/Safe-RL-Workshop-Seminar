@@ -1,7 +1,5 @@
 
 
-&nbsp; 
-
 # <div align=center>[Safe Reinforcement Learning Online Seminar](https://sites.google.com/view/saferl-seminar/home) </div>
 
 
